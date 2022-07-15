@@ -65,6 +65,10 @@
           <Title small>Recharging button</Title>
           <p class="text-gray-500">The hardest button to recharge</p>
         </LinkCard>
+        <LinkCard to="/lab/stream" class="aspect-video pr-8">
+          <Title small>Go and stream</Title>
+          <p class="text-gray-500">Next phase</p>
+        </LinkCard>
       </div>
     </Stack>
   </div>
