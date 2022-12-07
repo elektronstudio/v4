@@ -69,6 +69,6 @@ const menu = ref(false);
         </NavButton>
       </button>
     </div>
-    <NavEvent />
+    <!-- <NavEvent /> -->
   </div>
 </template>

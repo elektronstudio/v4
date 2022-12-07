@@ -28,6 +28,7 @@
     "plausible-tracker": "^0.3.8",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
+    "reconnecting-websocket": "^4.4.0",
     "rss-parser": "^3.12.0",
     "unplugin-icons": "^0.14.9",
     "vite": "^3.1.1"
